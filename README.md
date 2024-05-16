@@ -30,6 +30,6 @@
 
 ### Achievement
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Malin502&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Malin502&no-frame=true&no-bg=true&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
