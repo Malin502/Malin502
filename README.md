@@ -6,10 +6,6 @@
   <a href="https://github.com/Malin502"><img height="20" src="https://img.shields.io/github/stars/Malin502?logo=github&style=flat" /></a>
 </p>
 
-<p align="left"> 
-  <a href="http://x.com/sen_tyo511"><img height="20" src="https://img.shields.io/twitter/follow/Malin502?style=flat&logo=x" /></a>
-</p>
-
 
 ### Recent Activities
 
