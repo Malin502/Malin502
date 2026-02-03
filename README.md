@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Malin
+## 👋 Hi! I'm Malin!
 
 <p align="left"> 
   <a href="https://github.com/Malin502/Malin502/"><img src="https://komarev.com/ghpvc/?username=Malin502" alt="Malin502" /></a>
